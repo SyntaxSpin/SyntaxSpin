@@ -1,39 +1,50 @@
-<!--![logo](bannerss.png)-->
-  <a href="https://github.com/syntaxspin">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspin&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
-  </a>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
+```                                                                       
+                                                                       
+                                                ^,,"^",,^  :,:"",:"  |  ❯ echo $FAVORITE_LANGUAGE
+  :,,,,,,,,,   ^,: :,,",,,,,,,,,,,,,            '"":,,,^`  ",^:,:"`  |  Java
+     ,,,,      ,,,::,     ,,,:    ^:                ^,,,:   ::"      |   
+     ,,,,     ,:,,,,,     ,,,:     ,`                ,,,,"^,,        |  ❯ uname -o
+     ,,,,    ":  :,:;     ,,,:   ",,,,,,:::::,,,,     :,,,,^         |  Android / Linux
+     :,,,    ,    ,,"     ,,,:      ",,"       ^,       :,,,:        |    
+     :,,,   ,,,,,,,,,,    ,,,:      ",,"   `"   :     ^": ,,,"       |  ❯ whoami
+     :,,,  ,"  ,"  ,,,`   ,,,:      ",,,  ^,,        ::^  ,::,,^     |  SyntaxSpin
+     ,,,,:::,,,,: ,::::,: ,,,:      ",,",,,,,       ,"      ^,,,,    |
+  :,,,,,,,,,,,,,,     ^,,,,,,,,,,,  ",,"   ^,   ,,,,,,,    ,,,,,,,,: |  # Reach me out using... 
+                                    ",,^        ",                   |  ❯ xdg-open "syntaxspin.frii.site"
+                                    ",,^       ::,                   |  ❯ xdg-open "mastodon.social/@SyntaxSpin"
+                                 ",:,,,::::,,,,,:                    |
+                                                                       
+```
 
-### Spoken Languages 
-* Arabic
-* French
-* English
-* Spanish
-
-### Languages and Tools
-![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
-![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
-![bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
-![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-<!--### Developer's Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&titlecolor=56BBB3&textcolor=56BBB3&bg&color=0d1117)
--->
-### Software Used
-![ArchLinux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) 
-![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
-![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
-![android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
-![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
-![Visual Studio Code](
-https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg
-)
-![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg)
-![vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
+<div align="center"> 
+<img src='https://komarev.com/ghpvc/?username=syntaxspin&color=brightgreen&style=flat-square&label=Profile+Views' alt="counter"> </br> <h1>Skills && hobbies</h1> </hr>
+<img src="https://skillicons.dev/icons?i=java,kotlin,css,html,javascript,python,markdown,bash,c,dart,rust,firebase,arch,debian,docker,ubuntu,linux,androidstudio,vscode,react,next,vercel,bun,nodejs,supabase,mongodb,gradle,flutter,tailwind,pycharm" alt="skills">
+</div>
 
 
+<div align="center">
+  <h1>I , also,  love</h1> </hr>
+</div>
+
+![MD](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white) 
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![SD](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Fig](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![QuickTime](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![reactiveX](https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![KoolDEPlasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
+![fdroid](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![brew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)
+
+<div align="center">
+  <h1>Stonks</h1> </hr>
+</div>
 <img src="https://raw.githubusercontent.com/SyntaxSpin/SyntaxSpin/output/snake.svg" alt="Snake animation" />
 
 
