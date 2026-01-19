@@ -24,7 +24,7 @@
 
 
 <div align="center">
-  <h1>I , also,  love</h1> </hr>
+  <h1>I also love</h1> </hr>
 </div>
 
 ![MD](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white) 
