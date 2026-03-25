@@ -11,8 +11,8 @@
      :,,,  ,"  ,"  ,,,`   ,,,:      ",,,  ^,,        ::^  ,::,,^     |  SyntaxSpin
      ,,,,:::,,,,: ,::::,: ,,,:      ",,",,,,,       ,"      ^,,,,    |
   :,,,,,,,,,,,,,,     ^,,,,,,,,,,,  ",,"   ^,   ,,,,,,,    ,,,,,,,,: |  # Reach me out using... 
-                                    ",,^        ",                   |  ❯ xdg-open "syntaxspin.frii.site"
-                                    ",,^       ::,                   |  ❯ xdg-open "mastodon.social/@SyntaxSpin"
+                                    ",,^        ",                   |  ❯ echo Rust
+                                    ",,^       ::,                   |  ❯ echo Kotlin
                                  ",:,,,::::,,,,,:                    |
                                                                        
 ```
