@@ -19,7 +19,7 @@
 
 <div align="center"> 
 <img src='https://komarev.com/ghpvc/?username=syntaxspin&color=brightgreen&style=flat-square&label=Profile+Views' alt="counter"> </br> <h1>Skills && hobbies</h1> </hr>
-<img src="https://skillicons.dev/icons?i=java,kotlin,css,html,javascript,python,markdown,bash,c,dart,rust,firebase,arch,debian,docker,ubuntu,linux,androidstudio,vscode,react,next,vercel,bun,nodejs,supabase,mongodb,gradle,flutter,tailwind,pycharm" alt="skills">
+<img src="https://skillicons.dev/icons?i=java,kotlin,css,html,javascript,python,markdown,bash,c,dart,rust,firebase,arch,debian,docker,ubuntu,linux,androidstudio,vscode,react,next,vercel,sqlite,nodejs,supabase,mongodb,gradle,flutter,tailwind,pycharm" alt="skills">
 </div>
 
 
